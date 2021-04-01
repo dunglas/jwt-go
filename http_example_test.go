@@ -16,8 +16,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/form3tech-oss/jwt-go"
-	"github.com/form3tech-oss/jwt-go/request"
+	"github.com/dunglas/jwt-go"
+	"github.com/dunglas/jwt-go/request"
 )
 
 // location of the files used for signing and verification
